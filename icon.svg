@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="30%" r="80%"><stop offset="0" stop-color="#2a1f6b"/><stop offset="1" stop-color="#07061a"/></radialGradient>
+    <linearGradient id="env" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d42a2a"/><stop offset="1" stop-color="#7a0b0b"/></linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#bg)"/>
+  <g fill="#fff" opacity=".8"><circle cx="90" cy="100" r="4"/><circle cx="420" cy="80" r="3"/><circle cx="380" cy="160" r="2.5"/><circle cx="130" cy="190" r="2.5"/><circle cx="440" cy="250" r="3"/></g>
+  <rect x="96" y="190" width="320" height="200" rx="16" fill="url(#env)"/>
+  <path d="M96 206 L256 310 L416 206 L416 190 L96 190 Z" fill="#9c1010"/>
+  <path d="M104 196 L256 300 L408 196" fill="none" stroke="#5e0707" stroke-width="6"/>
+  <circle cx="256" cy="300" r="34" fill="#d4af37" stroke="#7a5a08" stroke-width="6"/>
+  <text x="256" y="316" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="bold" fill="#5a3d00">H</text>
+</svg>

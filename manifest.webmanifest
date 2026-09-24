@@ -1,0 +1,13 @@
+{
+  "name": "Hogwarts Daily Planner",
+  "short_name": "Hogwarts",
+  "description": "A magical daily routine planner with Howlers, professors, spells and dungeon creatures.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07061a",
+  "theme_color": "#0b0a1a",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
